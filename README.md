@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Njuraita- your data maestro,  
+- 👋 Hi, I’m Njuraita- your data maestro,  
 - 👀 I’m interested in 'composing' powerful stories from data, 
 - 🌱 I’m currently learning to to fine-tune my skills with Tableau, Power BI, Python and diving into the rhythm of AI
 - 💞️ I’m looking to collaborate on projects that mix creativity, precision, and a touch of spontaneity
