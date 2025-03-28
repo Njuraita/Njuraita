@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Njuraita- your data maestro,  
 - 👀 I’m interested in 'composing' powerful stories from data, 
-- 🌱 I’m currently learning to to fine-tune my skills with Tableau, Power BI, Python and diving into the rhythm of AI
+- 🌱 I’m currently learning to to fine-tune my skills with SQL,Tableau, Power BI, R, Python and diving into the rhythm of AI
 - 💞️ I’m looking to collaborate on projects that mix creativity, precision, and a touch of spontaneity
 - 📫 How to reach me;  Hit me up on Email, GitHub or LinkedIn, and let’s create a chart-topping data performance!
 - 😄 Pronouns: She/Her – but if you’re feeling creative, call me “The Data Maestro” 😄
